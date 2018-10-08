@@ -27,7 +27,7 @@ public class Menu {
                         * 3 + enter
                         *   some text for git
                         * */
-
+                        //one more text for git
                         flightService.showFlightsByDeparture(City.valueOf(cityOfDeparture.toUpperCase()));
                         break;
                     }
