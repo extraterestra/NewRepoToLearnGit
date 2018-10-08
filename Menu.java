@@ -25,7 +25,7 @@ public class Menu {
 
                         /*
                         * 3 + enter
-                        *
+                        *   some text for git
                         * */
 
                         flightService.showFlightsByDeparture(City.valueOf(cityOfDeparture.toUpperCase()));
