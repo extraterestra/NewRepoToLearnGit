@@ -1,5 +1,5 @@
 package exercises.flightFinder;
 
 public enum City {
-    KIEV, KRAKOW, BERLIN, BARCELONA, PARIS
+    KIEV, KRAKOW, BERLIN, BARCELONA, PARIS, LVIV
 }
